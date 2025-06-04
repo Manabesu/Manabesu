@@ -1,0 +1,65 @@
+**NAME**  
+Email: your.email@example.com | GitHub: github.com/yourhandle | LinkedIn: linkedin.com/in/yourhandle | Portfolio: yourportfolio.dev  
+Location: City, State | Phone: +91-XXXXXXXXXX
+
+---
+
+**EDUCATION**  
+**XYZ University** – B.Tech in Computer Science and Engineering  
+Month YYYY – Month YYYY | CGPA: X.XX/10  
+
+Relevant Coursework: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, Software Engineering
+
+---
+
+**SKILLS**  
+Languages: Python, JavaScript, C++, SQL  
+Frameworks: React, Node.js, Express, Flask  
+Tools: Git, Docker, MongoDB, Firebase, GitHub Actions  
+Concepts: OOP, REST APIs, OS Internals, DBMS, Version Control  
+Soft Skills: Problem-Solving, Teamwork, Rapid Prototyping
+
+---
+
+**PROJECTS**  
+
+**🧠 DevMatch – AI-Powered Semantic Search for Developers**  
+*MongoDB + OpenAI Hackathon Finalist | GitHub Stars: 100+*  
+- Built full-stack app to semantically search Stack Overflow-style content using **MongoDB Vector Search** and **OpenAI Embeddings**  
+- Implemented React frontend, FastAPI backend, and CI/CD with GitHub Actions  
+- Achieved ~90% search relevance on test queries vs keyword-based systems
+
+**🎮 osu! Beatmap Creator (Stylus + Tap UI)**  
+- Designed a tool that lets users create rhythm game beatmaps using stylus-drawn paths and real-time tapping  
+- Built using **HTML Canvas**, **Web Audio API**, and **localStorage** for persistence
+
+**📦 SmartCart – Offline-First Grocery App**  
+- React + IndexedDB PWA that supports offline cart management  
+- Integrated barcode scanning and Firebase auth for sync across devices
+
+---
+
+**OPEN SOURCE CONTRIBUTIONS**  
+- **Contributed to [Project Name]**: Fixed performance bug in React-based UI component  
+- **Contributed to [Another Project]**: Added CLI testing feature with Jest and improved documentation  
+- Participated in Hacktoberfest (2023, 2024): 10+ meaningful PRs merged
+
+---
+
+**HACKATHONS**  
+- **Winner @ DevJam '24** – Built a farmer-focused agri-data dashboard using satellite APIs  
+- **Top 5 Finalist @ CodeX Hackathon** – Developed an AI-based resume grader for job-seeking platforms
+
+---
+
+**POSITIONS OF RESPONSIBILITY**  
+- **Technical Lead, Coding Club XYZ University**  
+  Mentored juniors, organized coding contests, and conducted Git & DSA workshops
+
+---
+
+**ACHIEVEMENTS**  
+- LeetCode: 350+ problems solved | Contest Rating: XXXX  
+- Codeforces: Max rating XXXX  
+- Google Cloud Arcade: Completed 30+ labs, earned skill badges
+
