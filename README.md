@@ -18,7 +18,10 @@
 * **💬 Ask me about** ~
 * **⚡ Fun fact** I am a good philosopher imo, you can ask me anything and I will gladly shatter all of your beliefs :)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Life Goals: Creating a personal AI assistant capable to interacting with every part of my life.
+Life Goals:
+- Creating a personal AI assistant capable to interacting with every part of my life.
+- Getting financial freedom before 40.
+- Write a fantasy novel.
 
 
 <div align='center' markdown="1">
