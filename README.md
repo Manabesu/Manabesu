@@ -1,4 +1,3 @@
-
 <h2 align="center">Hello there! My name is Manab</h2>
 <p align='center'>
 </p>
@@ -20,7 +19,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Life Goals:
 - Creating a personal AI assistant capable to interacting with every part of my life.
-- Getting financial freedom before 40.
+- Achieving financial freedom before 40.
 - Write a fantasy novel.
 
 
