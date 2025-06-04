@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">I am a 0th Year undergraduate student. I aspire to be a valuable resource in society; help develop software that is going to meet individual client needs
-  as well as my passions and personal freedom. I want to be an active blogger. Being pragmatic by nature,
+  as well as my passions and personal freedom. Being pragmatic by nature,
   I inhabit an up help desire and straight forward outlook. As a self-proclaimed lifelong learner, I believe in constant learning and exploring new things; wish to travel the world and try every cuisine.
 </p>
 
