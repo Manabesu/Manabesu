@@ -17,7 +17,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Bucket List:
 - Creating a personal AI assistant capable to interacting with every part of my life.
-- Creating sentience/consciousness in computer.
+- Creating Artificial consciousness.
 - Writing a research paper in Maths.
 - Achieving financial freedom before 40.
 - Writing a novel.
