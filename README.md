@@ -6,6 +6,8 @@
 
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manabesu&label=Profile%20views&color=0e75b6&style=flat" alt="manabesu" /> </p>
+
 <p align="center">I am a 0th Year undergraduate student. I aspire to be a valuable resource in society; help develop software to improve experience of others. Being pragmatic by nature, I inhabit an up help desire and straight forward outlook. As a self-proclaimed lifelong learner, I believe in constant learning and exploring new things; wish to travel the world and try every cuisine. I love maths the most. I want to know more about quantum mechanics.
 </p>
 
@@ -24,11 +26,7 @@ Bucket List:
 
 
 <div align='center' markdown="1">
-
-### My Github Stats
-
-![Manab's github stats](https://github-readme-stats.vercel.app/api/?username=manabesu&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
-
- 
- </div>
+<p style="width:100%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manabesu&show_icons=true&locale=en" alt="manabesu" /></p>
+<p style="width:100%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manabesu&show_icons=true&locale=en&layout=compact" alt="manabesu" /></p>
+</div>
  
