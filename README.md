@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! My name is Manab</h2>
+<h2 align="center">Hello there! Manab here</h2>
 <p align='center'>
 </p>
 <div align='center'>
