@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manabesu&label=Profile%20views&color=0e75b6&style=flat" alt="manabesu" /> </p>
 
-<p align="center">I am a 0th Year undergraduate student. I aspire to be a valuable resource in society; help develop software to improve experience of others. Being pragmatic by nature, I inhabit an up help desire and straight forward outlook. As a self-proclaimed lifelong learner, I believe in constant learning and exploring new things; wish to travel the world and try every cuisine. I love maths the most. I want to know more about quantum mechanics.
+<p align="center">I am a freshman undergraduate student. I aspire to be a valuable resource in society; help develop software to improve experience of others. Being pragmatic by nature, I inhabit an up help desire and straight forward outlook. As a self-proclaimed lifelong learner, I believe in constant learning and exploring new things; wish to travel the world and try every cuisine. I love maths the most. I want to know more about quantum mechanics.
 </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
