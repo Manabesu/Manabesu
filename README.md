@@ -12,17 +12,25 @@
 </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* **🌱 I’m currently learning:** Basics of Programming through CS50, Mathematics
+* **🌱 I’m currently learning:** Basics of Programming through CS50, Mathematics, Languages
 * **👯 I’m looking to collaborate on:** Machine Learning/ Artificial Intelligence, Mathematics, Quantum Physics
 * **💬 Ask me about:** ~
 * **⚡ Fun fact:** I am a good philosopher imo, you can ask me anything and I will gladly shatter all of your beliefs :)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Languages I know:
+- C
+- Python (Learning)
+- HCJ
+- Svelte (JS FW) (Learning)
+
+
 Bucket List:
 - Creating a personal AI assistant capable to interacting with every part of my life.
-- Creating Artificial consciousness.
-- Writing a research paper in Maths.
-- Achieving financial freedom before 40.
+- Creating Artificial consciousness :P
+- Writing a groundbreaking research paper.
 - Writing a novel.
+- Drawing illustrations.
+- Getting a 911.
 
 
 <div align='center' markdown="1">
