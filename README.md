@@ -12,7 +12,7 @@
 </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* **🌱 I’m currently learning:** Basics of Programming through CS50, Mathematics, Languages
+* **🌱 I’m currently learning:** Uni, CS50, Mathematics, Languages
 * **👯 I’m looking to collaborate on:** Machine Learning/ Artificial Intelligence, Mathematics, Quantum Physics
 * **💬 Ask me about:** ~
 * **⚡ Fun fact:** I am a good philosopher imo, you can ask me anything and I will gladly shatter all of your beliefs :)
